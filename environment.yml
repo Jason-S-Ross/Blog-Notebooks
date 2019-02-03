@@ -1,0 +1,7 @@
+name: blog_notebooks
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - ipywidgets
+  
