@@ -1,1 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/conda_environment/v1.0?filepath=Synthesizer.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Jason-S-Ross/Blog-Notebooks/master)
+
+This repository contains notebooks to accompany posts on my [Blog](https://jason-s-ross.github.io/)
+
